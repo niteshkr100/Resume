@@ -92,10 +92,13 @@ export const Data = {
     ],
     proyects: [
       {
-        name: "Patlikaki Support",
-        company:`https://prismatic-kulfi-fae92a.netlify.app/`,
+        name: "E-commerce webApp",
+        company:`https://3legant-21-gcebaiml-059.vercel.app/`,
         description: [
-          "This website empowers businesses to elevate their online presence by offering expert website consultation and tailored web solutions. We provide valuable advice and solutions for website improvement, with affordable fees to ensure accessibility. It has heroes section, testimonial section, signup form, action section, and footer section.",
+          "Developed a MERN E-commerce web app which emphasizes the comprehensive nature of your project, encompassing both frontend and backend development.
+ Implemented functionalities like signup, login, profile, address section, add-to-cart, and payment Integration path and focuses on the user perspective and highlights the app's ease of use.
+Created a feature-rich app with React.js, Next.js, Node.js, Express.js,  Prisma, Tailwind Css, MongoDb and Stripe payment gateway."
+ ,
         ],
       },
       {
